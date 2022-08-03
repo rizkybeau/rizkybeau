@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rizkybeau
-- 👀 I’m interested in Web Development Desktop apps with VB.NET
+- 👀 I’m interested in Web Development and Desktop apps with VB.NET
 - 🌱 I’m currently learning Web Development like Framework Front End : React
 - Learning Practice Code... Repeat
 
